@@ -1,0 +1,19 @@
+#ext-cont{
+    background-color: black;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 20%;
+    right:34%;
+    background-color: rgb(137, 135, 167);
+    padding: 50px;
+}
+.container-fluid{
+    background-color: aqua;
+}
+.btn{
+    margin-right: 25%;
+}
